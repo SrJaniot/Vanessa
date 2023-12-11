@@ -1,0 +1,23 @@
+/* pokedex-esmeralda-style.css */
+.table {
+    font-size: 16px;
+  }
+  
+  .thead-pokemon {
+    background-color: #8bc34a; /* Color de fondo de la cabecera */
+    color: #fff; /* Color del texto de la cabecera */
+  }
+  
+  .table-hover tbody tr:hover {
+    background-color: #f0f0f0; /* Color de fondo al pasar el cursor por encima */
+  }
+  
+  .table-bordered {
+    border-color: #8bc34a; /* Color del borde de la tabla */
+  }
+  
+  .table-bordered th,
+  .table-bordered td {
+    border-color: #8bc34a; /* Color del borde de las celdas */
+  }
+  
